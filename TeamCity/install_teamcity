@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd ~
+
+rm -rf TeamCity
+rm -rf BuildServer
+
+tar -xzvf TeamCity-9.1.7.tar.gz
+

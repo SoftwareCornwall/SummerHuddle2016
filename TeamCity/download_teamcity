@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~
+
+wget -v https://download.jetbrains.com/teamcity/TeamCity-9.1.7.tar.gz
+

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export TEAMCITY_DATA_PATH=/home/pi/BuildServer
+echo To start server \"~/TeamCity/bin/teamcity-server.sh run\"
+echo To start agent  \"~/TeamCity/buildAgent/bin/agent.sh run\"
+
